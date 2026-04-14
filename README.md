@@ -11,5 +11,4 @@ An intelligent resume screening tool built with Python, NLP, and TF-IDF algorith
 ## Tech Stack
 Python | Streamlit | NLP | TF-IDF | scikit-learn
 
-## Live Demo
-[Click here to try the app](#) ← (Streamlit link aane ke baad update karna)
+
